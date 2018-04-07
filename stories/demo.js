@@ -1,1 +1,5 @@
-import React from 'react'
+import '../src/index'
+
+export default function Demo() {
+  return null
+}
